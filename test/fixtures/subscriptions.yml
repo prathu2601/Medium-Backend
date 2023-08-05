@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user: one
+  tierfree: false
+  tier3d: false
+  tier5d: false
+  tier10d: false
+  allowedViews: 1
+
+two:
+  user: two
+  tierfree: false
+  tier3d: false
+  tier5d: false
+  tier10d: false
+  allowedViews: 1
